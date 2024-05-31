@@ -1,0 +1,9 @@
+Work done by Ieva Madara Glavecka and Denis Nazarovs
+Work breakdown:
+Terrain & Grass - Denis
+Windmill - Denis
+Seagull - Denis
+Tree - Ieva
+Fence - Ieva
+Boat & Pier - Ieva
+Water - Ieva & Denis
